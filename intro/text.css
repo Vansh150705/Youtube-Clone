@@ -1,0 +1,45 @@
+p{
+    font-family: Arial;
+}
+.video-title{
+    font-size: 40px;
+    font-weight: bold;
+    width: 550px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.views-line{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.vansh{
+    font-family: Arial;
+    font-size: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.description{
+    width: 208px;
+    line-height: 25px;
+}
+
+.Shop-Now{
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.shop{
+    color:black;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.shop:hover{
+    text-decoration: underline;
+}
